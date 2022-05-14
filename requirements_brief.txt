@@ -1,0 +1,11 @@
+torch==1.8.1
+torchvision==0.9.1
+imageio
+imageio-ffmpeg
+matplotlib
+configargparse
+tensorboard==1.14.0
+tqdm
+opencv-python-headless==4.1.2.30
+opencv-contrib-python<4.5
+scikit-image
