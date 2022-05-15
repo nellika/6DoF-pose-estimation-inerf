@@ -20,3 +20,8 @@ python main.py --config configs/general.txt --model_name arm_tr_200000 --obj_nam
 ![Used object](/assets/imgs/tilted_merged_5.png)
 ![Used architecture](/assets/imgs/full_work_arch_whitebg.png)
 
+## Connected links
+- [Example runs](https://bit.ly/3yA0N2J)
+- [Data generation](https://github.com/nellika/synth-data-generator)
+- [Parse logs](https://github.com/nellika/parse-thesis-results)
+
