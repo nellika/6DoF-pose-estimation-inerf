@@ -1,9 +1,12 @@
 # RGB-only six degrees of freedom pose estimation with neural radiance fields
 
-
-<p float="left" witdh="99%">
-  <img src="/assets/imgs/0_afast_i1batch512_TEST.gif" width="32%" /><img src="/assets/imgs/1_bnfast_i2batch512_TEST.gif" width="32%" /><img src="/assets/imgs/2_gyfast_i1batch512_TEST.gif" width="32%" />
-</p>
+<table>
+  <tr>
+    <td style="width:32%" valign="top"><img src="/assets/imgs/0_afast_i1batch512_TEST.gif"></td>
+    <td style="width:32%" valign="top"><img src="/assets/imgs/1_bnfast_i2batch512_TEST.gif"></td>
+    <td style="width:32%" valign="top"><img src="/assets/imgs/2_gyfast_i1batch512_TEST.gif"></td>
+  </tr>
+ </table>
 
 Special thanks to:
 - [https://github.com/bmild/nerf](https://github.com/bmild/nerf)
