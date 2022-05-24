@@ -2,9 +2,7 @@
 
 
 <p float="left">
-  <img src="/assets/imgs/0_afast_i1batch512_TEST.gif" width="32%" />
-  <img src="/assets/imgs/1_bnfast_i2batch512_TEST.gif" width="32%" /> 
-  <img src="/assets/imgs/2_gyfast_i1batch512_TEST.gif" width="32%" />
+  <img src="/assets/imgs/0_afast_i1batch512_TEST.gif" width="32%" /><img src="/assets/imgs/1_bnfast_i2batch512_TEST.gif" width="32%" /><img src="/assets/imgs/2_gyfast_i1batch512_TEST.gif" width="32%" />
 </p>
 
 Special thanks to:
